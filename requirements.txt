@@ -1,0 +1,6 @@
+sentence-transformers
+pypdf
+numpy
+requests
+streamlit
+reportlab        # only needed to generate the sample chapters
